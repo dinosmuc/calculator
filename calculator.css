@@ -1,0 +1,49 @@
+.card {
+    margin: auto;
+    margin-top: 20px;
+}
+.card-title{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card-header{
+    height: 70px;
+    font-size: 2em;
+    
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.last-row{
+    margin-top: 50px;
+}
+.third-row{
+    margin-top: 50px
+}
+.second-row{
+    margin-top: 50px
+}
+.first-row{
+    margin-top: 50px
+}
+
+.btn{
+    height: 95px;
+    width: 95px;
+    font-size: 2em;
+}
+
+.num{
+    margin-inline: 1px;
+}
+.rezult{
+    text-align: left;
+    color: red;
+}
+
+
+
