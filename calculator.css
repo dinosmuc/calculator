@@ -40,10 +40,9 @@ li {
 .num{
     margin-inline: 1px;
 }
-.rezult{
-    text-align: left;
-    color: red;
-}
 
+.calculation{
+    float: right;
+}
 
 
